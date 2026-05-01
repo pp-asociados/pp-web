@@ -86,14 +86,13 @@ También realizamos presentaciones de vigencias, declaraciones juradas y reváli
 
 Si sos profesional, podés delegar el armado y la carga del Sistema de Autoprotección: nosotros lo desarrollamos y gestionamos bajo tu firma como profesional responsable, optimizando tiempos y evitando tareas administrativas tediosas.
 
-            
-  <div className="flex flex-col sm:flex-row gap-3 mt-4">
+    <div className="flex flex-col sm:flex-row gap-3 mt-4">
 
   <a
     href="https://wa.me/5491141692194?text=Hola,%20quiero%20hacer%20una%20consulta"
     target="_blank"
     rel="noopener noreferrer"
-    className="inline-block bg-[#d8bd82] text-[#171514] px-6 py-3 rounded-full font-medium text-center"
+    className="inline-block bg-[#d8bd82] text-[#171514] px-6 py-3 rounded-full font-medium"
   >
     Consulta general
   </a>
@@ -102,7 +101,7 @@ Si sos profesional, podés delegar el armado y la carga del Sistema de Autoprote
     href="https://wa.me/5491140433283?text=Hola,%20necesito%20realizar%20un%20Sistema%20de%20Autoprotección"
     target="_blank"
     rel="noopener noreferrer"
-    className="inline-block bg-white/90 text-[#171514] px-6 py-3 rounded-full font-medium text-center"
+    className="inline-block bg-white/90 text-[#171514] px-6 py-3 rounded-full font-medium"
   >
     Solicitar SAP
   </a>
@@ -111,7 +110,10 @@ Si sos profesional, podés delegar el armado y la carga del Sistema de Autoprote
 
 <p className="text-xs text-white/50 mt-2">
   Respuesta rápida en el día hábil
-</p>
+</p>        
+  
+
+
 
   
 
