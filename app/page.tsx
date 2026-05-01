@@ -69,13 +69,18 @@ export default function Home() {
       </header>
 
       {/* HERO (CORREGIDO SIN IMAGEN) */}
-      <section className="relative overflow-hidden">
+     <section className="relative overflow-hidden">
 
-        {/* FONDO SIN ERROR */}
-        <div className="absolute inset-0 bg-gradient-to-br from-[#171514] via-[#2a2824] to-[#0f1111]"></div>
+  {/* FONDO SIN ERROR */}
+  <div className="absolute inset-0 bg-gradient-to-br from-[#171514] via-[#2a2824] to-[#171514]"></div>
 
-        <div className="relative max-w-7xl mx-auto px-6 py-24 grid md:grid-cols-2 gap-12 items-center">
-          <div>
+  <div className="relative max-w-7xl mx-auto px-6 py-24 grid md:grid-cols-2 gap-...">
+    <div>
+      ...
+    </div>
+  </div>
+
+</section>
             <h2 className="text-4xl md:text-6xl font-semibold leading-tight mb-6">
               Sistemas de Autoprotección, Seguridad e Higiene y Medio Ambiente
             </h2>
