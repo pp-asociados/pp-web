@@ -87,12 +87,18 @@ También realizamos presentaciones de vigencias, declaraciones juradas y reváli
 Si sos profesional, podés delegar el armado y la carga del Sistema de Autoprotección: nosotros lo desarrollamos y gestionamos bajo tu firma como profesional responsable, optimizando tiempos y evitando tareas administrativas tediosas.
 
             <a
-              href="https://wa.me/5491141692194?text=Hola,%20quiero%20consultar%20por%20un%20Sistema%20de%20Autoprotección"
-              className="inline-block bg-[#d8bd82] text-[#171514] px-7 py-4 rounded-full font-medium"
-            >
-              Solicitar Consulta
-            </a>
-          </div>
+  href="https://wa.me/5491141692194?text=Hola,%20quiero%20consultar%20por%20un%20Sistema%20de%20Autoprotección"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-block bg-[#d8bd82] text-[#171514] px-7 py-4 rounded-full font-medium"
+>
+  Solicitar consulta por WhatsApp
+</a>
+
+<p className="text-xs text-white/50 mt-2">
+  Respuesta rápida en el día hábil
+
+  
 
           <div className="bg-white/10 border border-white/15 rounded-[2rem] p-8">
             {servicios.map((item) => (
