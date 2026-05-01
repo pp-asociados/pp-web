@@ -87,10 +87,10 @@ También realizamos presentaciones de vigencias, declaraciones juradas y reváli
 Si sos profesional, podés delegar el armado y la carga del Sistema de Autoprotección: nosotros lo desarrollamos y gestionamos bajo tu firma como profesional responsable, optimizando tiempos y evitando tareas administrativas tediosas.
 
             <a
-              href="#servicios"
+              href="https://wa.me/5491141692194?text=Hola,%20quiero%20consultar%20por%20un%20Sistema%20de%20Autoprotección"
               className="inline-block bg-[#d8bd82] text-[#171514] px-7 py-4 rounded-full font-medium"
             >
-              Conocer servicios
+              Solicitar Consulta
             </a>
           </div>
 
