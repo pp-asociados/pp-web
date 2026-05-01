@@ -80,10 +80,11 @@ export default function Home() {
               Sistemas de Autoprotección, Seguridad e Higiene y Medio Ambiente
             </h2>
 
-            <p className="text-white/75 text-lg leading-relaxed mb-8">
-              Desarrollo, armado, presentación y seguimiento de SAP Ley 5920,
-              simulaciones de evacuación, FDS, tratamientos ignífugos y gestión integral.
-            </p>
+           Nos ocupamos de todo tu Sistema de Autoprotección (Ley 5920): armado, presentación, seguimiento del expediente y resolución de subsanaciones ante Defensa Civil. Incluye confección de planos de evacuación conforme normativa, simulaciones según requerimiento del establecimiento y gestión integral.
+
+También realizamos presentaciones de vigencias, declaraciones juradas y reválidas según Disposición 331/2025.
+
+Si sos profesional, podés delegar el armado y la carga del Sistema de Autoprotección: nosotros lo desarrollamos y gestionamos bajo tu firma como profesional responsable, optimizando tiempos y evitando tareas administrativas tediosas.
 
             <a
               href="#servicios"
