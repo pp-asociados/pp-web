@@ -69,7 +69,7 @@ export default function Home() {
       </header>
 
       {/* HERO (CORREGIDO SIN IMAGEN) */}
-     <section className="relative overflow-hidden">
+    <section className="relative overflow-hidden">
 
   {/* FONDO SIN ERROR */}
   <div className="absolute inset-0 bg-gradient-to-br from-[#171514] via-[#2a2824] to-[#171514]"></div>
