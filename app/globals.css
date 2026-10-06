@@ -43,3 +43,76 @@ body {
   width: max-content;
   animation: logosScroll 18s linear infinite;
 }
+
+@media (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  header > div {
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    gap: 14px;
+    padding: 16px 20px;
+  }
+
+  header > div > div {
+    justify-content: center;
+    text-align: center;
+  }
+
+  header img {
+    width: 110px;
+    height: auto;
+  }
+
+  main section {
+    padding-left: 28px !important;
+    padding-right: 28px !important;
+  }
+
+  main section > div {
+    max-width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  main h1,
+  main h2,
+  main h3 {
+    max-width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+  }
+
+  main h2 {
+    font-size: 36px !important;
+    line-height: 1.1 !important;
+  }
+
+  main h3 {
+    line-height: 1.2 !important;
+  }
+
+  main p {
+    max-width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+  }
+
+  main .grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  main a {
+    max-width: 100%;
+  }
+
+  .logos-track {
+    width: max-content !important;
+  }
+}

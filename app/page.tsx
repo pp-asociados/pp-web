@@ -62,9 +62,9 @@ export default function Home() {
 
       {/* HEADER */}
       <header className="sticky top-0 z-50 bg-[#f7f4ef]/95 backdrop-blur border-b border-stone-200 text-[#171514]">
-        <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+        <div className="max-w-7xl mx-auto px-4 py-4 flex flex-col sm:flex-row justify-between items-center gap-3 text-center sm:text-left">
           <div className="flex items-center gap-3">
-            <img src="/logo.png" className="w-32" />
+            <img src="/logos/logolimpio.png" className="w-32" />
             <div>
               <h1 className="text-2xl font-semibold">P&P Asociados</h1>
               <p className="text-base text-stone-500">
@@ -200,7 +200,7 @@ export default function Home() {
       Servicio exclusivo para profesionales
     </p>
 
-    <h2 className="text-3xl md:text-5xl font-semibold leading-tight mb-6">
+    <h2 className="text-3xl md:text-5xl font-semibold leading-tight mb-6 text-center md:text-left">
       Mantené tu firma. Nosotros nos ocupamos del desarrollo del SAP.
     </h2>
 
@@ -210,18 +210,18 @@ export default function Home() {
 
     <div className="grid md:grid-cols-3 gap-4 mb-8">
       <div className="bg-white rounded-2xl p-5">
-        <strong>Desarrollo del SAP</strong>
-        <p className="mt-2 text-sm">Desarrollo completo para tu revisión y presentación.</p>
+        <strong className="text-xl">Desarrollo del SAP</strong>
+        <p className="mt-2 text-base">Desarrollo completo para tu revisión y presentación.</p>
       </div>
 
       <div className="bg-white rounded-2xl p-5">
-        <strong>SAP + carga</strong>
-        <p className="mt-2 text-sm">Desarrollo y carga de la documentación correspondiente.</p>
+        <strong className="text-xl">SAP + carga</strong>
+        <p className="mt-2 text-base">Desarrollo y carga de la documentación correspondiente.</p>
       </div>
 
       <div className="bg-white rounded-2xl p-5">
-        <strong>Gestión completa</strong>
-        <p className="mt-2 text-sm">Desarrollo, carga, seguimiento del expediente y subsanaciones.</p>
+        <strong className="text-xl">Gestión completa</strong>
+        <p className="mt-2 text-base">Desarrollo, carga, seguimiento del expediente y subsanaciones.</p>
       </div>
     </div>
     <div className="mt-8 mb-6">
